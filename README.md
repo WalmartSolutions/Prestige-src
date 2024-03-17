@@ -2,6 +2,7 @@
 <h1>Prestige open source edition</h1>
 
 **Trillium INC | https://discord.gg/vzXzFpv2gk**
+(this is not an src leak)
 
 #
 <img src="https://i.postimg.cc/Px8ynJ6z/XD.png" alt="logo" width="40%" align="center" />
